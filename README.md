@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is mrs.
+hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is mrs.
 ============================================================================================================================
 
-Junior developer and designer
+junior developer and designer
 -----------------------------
 
-I've been learning programming for a long time, about 2-3 years. I started with HTML, now I'm learning Java. I'm also learning design, learning to be a front-end developer.
+i've been learning programming for a long time, about 2-3 years. I started with HTML, now I'm learning Java. I'm also learning design, learning to be a front-end developer.
 
-* 🌍  I'm based in Bishkek
-* 🖥️  See my portfolio at [my design portfolio](http://t.me/mls_portfolio)
-* ✉️  You can contact me at [semeteevna0602@gmail.com](mailto:semeteevna0602@gmail.com)
-* 🧠  I'm learning swing
-* 🤝  I'm open to collaborating on with interesting projects related to programming and design.
-* ⚡  I'm a penguin at my heart, but nobody knows it yet.
+* 🌍  i'm based in Bishkek
+* 🖥️  see my portfolio at [my design portfolio](http://t.me/mls_portfolio)
+* ✉️  you can contact me at [semeteevna0602@gmail.com](mailto:semeteevna0602@gmail.com)
+* 🧠  i'm learning swing
+* 🤝  i'm open to collaborating on with interesting projects related to programming and design.
+* ⚡  i'm a penguin at my heart, but nobody knows it yet.
 
 ### Skills
 
