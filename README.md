@@ -30,3 +30,4 @@ i've been learning programming for a long time, about 2-3 years. i started with 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mraiana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mraiana&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraiana&theme=date_night)"/></a>
