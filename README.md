@@ -4,7 +4,7 @@ hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 junior developer and designer
 -----------------------------
 
-i've been learning programming for a long time, about 2-3 years. I started with HTML, now I'm learning Java. I'm also learning design, learning to be a front-end developer.
+i've been learning programming for a long time, about 2-3 years. i started with HTML, now i'm learning Java. i'm also learning design, learning to be a front-end developer.
 
 * 🌍  i'm based in Bishkek
 * 🖥️  see my portfolio at [my design portfolio](http://t.me/mls_portfolio)
